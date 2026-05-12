@@ -1,21 +1,6 @@
 #  Employee Attendance Tracking & Reporting System
 
 > A reusable, automated monthly attendance tracking solution built with **Microsoft Excel VBA** and **SAP Crystal Reports** — designed for HR teams to clean, process, and report employee attendance data with minimal manual effort every month.
-
----
-
-##  Table of Contents
-
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Tools & Requirements](#tools--requirements)
-- [Workflow](#workflow)
-- [VBA Cleaning Macro](#vba-cleaning-macro)
-- [Crystal Reports Template](#crystal-reports-template)
-- [Report Output](#report-output)
-- [Known Issues & Notes](#known-issues--notes)
-- [Author](#author)
-
 ---
 
 ## Overview
